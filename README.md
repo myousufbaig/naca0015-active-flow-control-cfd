@@ -1,6 +1,5 @@
 # naca0015-active-flow-control-cfd
 Validation of 2D steady-state active flow control (momentum injection) on a NACA 0015 airfoil against published literature.
-Absolutely. I'll keep **all the content, numbers, findings, and technical meaning**, but convert the equations and notation into normal GitHub-readable text. No unnecessary academic formatting.
 
 # 2D Active Flow Control (AFC) CFD Validation on NACA 0015 Airfoil
 
