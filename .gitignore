@@ -1,3 +1,16 @@
+# Ignore Ansys temp files and solver locks
+*.ip
+*.log
+*.bak
+*.backup
+*.lock
+*_files/user_files/
+*_files/dp*/Fluent/*.trn
+*_files/dp*/Fluent/*.cas.h5.bak
+*_files/dp*/Fluent/*.dat.h5.bak
+
+# Keep only the essential system database files
+!*_files/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
